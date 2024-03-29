@@ -15,3 +15,4 @@ pywin32==301; sys_platform == 'win32'
 requests==2.26.0
 urllib3==1.26.5
 websocket-client==0.56.0
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
