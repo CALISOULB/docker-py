@@ -4,7 +4,7 @@ backports.ssl-match-hostname==3.5.0.1
 cffi==1.14.4
 cryptography==3.4.7
 enum34==1.1.6
-idna==2.5
+idna==3.7
 ipaddress==1.0.18
 packaging==16.8
 paramiko==2.8.0
